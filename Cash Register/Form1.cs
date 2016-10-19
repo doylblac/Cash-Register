@@ -14,7 +14,7 @@ using System.Media;
 
 namespace Cash_Register
 {
-    public partial class Form1 : Form
+    public partial class Form1 : Form 
     {
         const double BURGER = 5.39;//Creates constant for cost of burgers
         const double FRIES = 2.43;//Creates constant for cost of fries
